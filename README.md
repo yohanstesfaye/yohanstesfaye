@@ -1,6 +1,6 @@
-# Hello, there 👋🏼
+# Hello, 👋🏼
 
-Hello, I am **Yohans Tesfaye**. I am full-stack developer.I have a passion for a programming and UI/UX designing.
+I am **Yohans Tesfaye**. I am full-stack developer.I have a passion for a programming and UI/UX designing.
 
 - 💂🏼‍♂️ you can call me _**John**_
 - 📍 I am from **Ethiopia**.  
@@ -9,7 +9,7 @@ Hello, I am **Yohans Tesfaye**. I am full-stack developer.I have a passion for a
 
 ## Technologies
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php.java,py,mysql,flutter,sqlite,md,vscode&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,java,py,mysql,flutter,sqlite,md,vscode&theme=light)
 
 ## Github Status
 

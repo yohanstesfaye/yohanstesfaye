@@ -1,6 +1,12 @@
 # Hello, there 👋🏼
 
-Hello, I am **Yohans Tesfaye** )_**John**_) from Ethiopia. I have a passion for a programming and designing and studied a computer scinece from Aksum University.
+Hello, I am **Yohans Tesfaye** I have a passion for a programming and designing.
+
+🧝🏼 Alt name: _**John**_
+
+📍 I am from **Ethiopia**.  
+
+👨🏼‍🎓 studied a **Computer Scinece**
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,java,php,py,sass,sqlite,mysql,flutter,md,vscode&theme=light)
 

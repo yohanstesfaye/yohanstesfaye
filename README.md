@@ -14,5 +14,5 @@ Hello, I am **Yohans Tesfaye**. I am full-stack developer.I have a passion for a
 
 ## Github Status
 
-| ![John GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanstesfaye&show_icons=true&count_private=true&hide=contribs&hide_title=true&icon_color=55bb55&hide_boarder=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanstesfaye&layout=compact&hide_boarder=true&title_color=55bb55) |
+| ![John GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanstesfaye&show_icons=true&count_private=true&hide=contribs&hide_title=true&icon_color=55bb55&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanstesfaye&layout=compact&hide_border=true&title_color=242424) |
 | :-: | :-: |

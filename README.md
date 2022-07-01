@@ -8,4 +8,4 @@ Hello, I am **Yohans Tesfaye** )_**John**_) from Ethiopia. I have a passion for 
 
 ![John GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanstesfaye&show_icons=true&count_private=true&hide=contribs)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanstesfaye&&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanstesfaye&layout=compact)

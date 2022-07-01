@@ -1,6 +1,6 @@
 # Hello, there 👋🏼
 
-Hello, I am **Yohans Tesfaye**. I am full-stack developer.I have a passion for a programming and designing.
+Hello, I am **Yohans Tesfaye**. I am full-stack developer.I have a passion for a programming and UI/UX designing.
 
 - 💂🏼‍♂️ you can call me _**John**_
 - 📍 I am from **Ethiopia**.  

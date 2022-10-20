@@ -9,7 +9,7 @@ I am **Yohans Tesfaye**. I am full-stack developer.I have a passion for a progra
 
 ## Technologies
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,java,py,mysql,flutter,sqlite,md,vscode&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,flutter,sqlite,md,vscode&theme=light)
 
 ## Github Status
 

@@ -2,10 +2,10 @@
 
 I am **Yohans Tesfaye**. I am full-stack developer.I have a passion for a programming and UI/UX designing.
 
-- 💂🏼‍♂️ you can call me _**John**_
-- 📍 I am from **Ethiopia**.  
-- 👨🏼‍🎓 studied a **Computer Science**
-- 🎧 love to listen music
+💂 you can call me _**John**_
+📍 I am from **Ethiopia**.  
+👨🏼‍🎓 studied a **Computer Science**
+🎧 love to listen music
 
 ## Technologies
 

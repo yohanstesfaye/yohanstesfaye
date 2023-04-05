@@ -1,11 +1,11 @@
 # Hello, 👋🏼
 
-I am **Yohans Tesfaye**. I am full-stack developer.I have a passion for a programming and UI/UX designing.
+I am **Yohanes Tesfaye**. I am a Front-end and Backend website developer, mobile app developer and UI/UX designer.I have a passion for a programming and User Interface and User Experience design for website and mobile applications.
 
-- 💂🏼‍♂️ you can call me _**John**_
-- 📍 I am from **Ethiopia**.  
-- 👨🏼‍🎓 studied a **Computer Scinece**
-- 🎧 love to listen music
+- you can call me _**John**_
+- I am from **Ethiopia**.  
+- studied a **Computer Science**
+- love to listen music
 
 ## Technologies
 

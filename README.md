@@ -2,10 +2,10 @@
 
 I am **Yohanes Tesfaye**. I am a Front-end and Backend website developer, mobile app developer and UI/UX designer.I have a passion for a programming and User Interface and User Experience design for website and mobile applications.
 
-- you can call me _**John**_
-- I am from **Ethiopia**.  
-- studied a **Computer Science**
-- love to listen music
+💚 You can call me _**John**_<br/>
+💚 I am from **Ethiopia**.  <br/>
+💚 studied a **Computer Science**<br/>
+💚 I love to listen smooth musics<br/>
 
 ## Technologies
 
@@ -13,7 +13,7 @@ I am **Yohanes Tesfaye**. I am a Front-end and Backend website developer, mobile
 
 ## Github Status
 
-| ![John GitHub stats](https://github-readme-stats.vercel.app/api?username=yohanstesfaye&show_icons=true&count_private=true&hide=contribs&hide_title=true&icon_color=55bb55&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohanstesfaye&layout=compact&hide_border=true&title_color=242424) |
+| ![My GitHub stats](https://github-stats-john.vercel.app/api?username=yohanstesfaye&show_icons=true&count_private=true&hide=contribs&hide_title=true&icon_color=55bb55&hide_border=true) | ![Top Langs](https://github-stats-john.vercel.app/api/top-langs/?username=yohanstesfaye&layout=compact&hide_border=true&title_color=242424) |
 | :-: | :-: |
 
 ## For job
@@ -26,5 +26,5 @@ I am **Yohanes Tesfaye**. I am a Front-end and Backend website developer, mobile
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yohanstesfaye3)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yohanstesfaye)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yohanstesfaye1)
-[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.com/yohans)
+[![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yohans)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yohanstesfaye)

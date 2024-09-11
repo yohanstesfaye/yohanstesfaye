@@ -5,7 +5,7 @@ I am **Yohanes Tesfaye**. I am a Front-end and Backend website developer, mobile
 💚 You can call me _**John**_<br/>
 💚 I am from **Ethiopia**.  <br/>
 💚 studied a **Computer Science**<br/>
-💚 I love to listen smooth musics<br/>
+💚 I love to listen to smooth music <br/>
 
 ## Technologies
 

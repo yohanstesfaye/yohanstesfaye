@@ -13,7 +13,7 @@ I am **Yohanes Tesfaye**. I am a Front-end and back-end website developer, mobil
 
 ## Github Status
 
-| ![My GitHub stats](https://github-stats-john.vercel.app/api?username=yohanstesfaye&show_icons=true&count_private=true&hide=contribs&hide_title=true&icon_color=55bb55&text_color=55bb55&hide_border=true) | ![Top Langs](https://github-stats-john.vercel.app/api/top-langs/?username=yohanstesfaye&layout=compact&hide_border=true&title_color=242424,&text_color=55bb55) |
+| ![My GitHub stats](https://github-stats-john.vercel.app/api?username=yohanstesfaye&show_icons=true&count_private=true&hide=contribs&hide_title=true&hide_border=true) | ![Top Langs](https://github-stats-john.vercel.app/api/top-langs/?username=yohanstesfaye&layout=compact&hide_border=true&title_color=132720) |
 | :-: | :-: |
 
 ## For job

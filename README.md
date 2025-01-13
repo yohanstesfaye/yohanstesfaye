@@ -9,7 +9,7 @@ I am **Yohanes Tesfaye**. I am a Front-end and back-end website developer, mobil
 
 ## Technologies
 
-![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,flutter,sqlite,md,vscode&theme=light)
+![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,flutter,md,vscode,figma&theme=light)
 
 ## Github Status
 

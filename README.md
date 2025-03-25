@@ -1,17 +1,17 @@
 # Hello, 👋🏼
 
-I am **Yohanes Tesfaye**. I am a Front-end and back-end website developer, mobile app developer, and UI/UX designer. I have a passionate for programming, User Interfaces, and User Experience design for websites and mobile applications.
+I am **`Yohanes Tesfaye`**. I am a Front-end and back-end `website developer`, `mobile app developer`, and `UI/UX designer`. I am passionate about programming, User Interfaces, and User Experience design for websites and mobile applications.
 
-◾ You can call me _**John**_<br/>
-◾ I am from **Ethiopia**.  <br/>
-◾ studied a **Computer Science**<br/>
+◾ You can call me **`John`**<br/>
+◾ I am from **`Ethiopia`**.  <br/>
+◾ studied a **`Computer Science`**<br/>
 ◾ I love to listen to smooth music <br/>
 
 ## Technologies
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,php,mysql,flutter,md,vscode,figma&theme=light)
 
-## For job
+## Have a `design` project? Let's talk on
 
 [![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/yohans_tesfaye) [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a8b2a59e2cddb804)
 

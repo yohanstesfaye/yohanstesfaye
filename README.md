@@ -1,6 +1,8 @@
 # Hello, 👋🏼
 
-I am **`Yohanes Tesfaye`**. I am a Front-end and back-end `website developer`, `mobile app developer`, and `UI/UX designer`. I am passionate about programming, User Interfaces, and User Experience design for websites and mobile applications.
+## I am **`Yohanes Tesfaye`** 
+
+I am a Front-end and back-end `website developer`, `mobile app developer`, and `UI/UX designer`. I am passionate about programming, User Interfaces, and User Experience design for websites and mobile applications.
 
 ◾ You can call me **`John`**<br/>
 ◾ I am from **`Ethiopia`**.  <br/>

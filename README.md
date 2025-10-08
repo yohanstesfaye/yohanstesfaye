@@ -15,16 +15,16 @@ I am a Front-end and back-end `website developer`, `mobile app developer`, and `
 
 ## Have a `design` project? Let's talk on
 
-[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/yohans_tesfaye) [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~01a8b2a59e2cddb804)
+[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/yohans_tesfaye) [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=121212&Color=121212)](https://www.upwork.com/freelancers/~01a8b2a59e2cddb804) [![BioLink](https://img.shields.io/badge/BioLink-121212?style=for-the-badge&logo=biolink&Color=afffaf)](https://www.upwork.com/freelancers/~01a8b2a59e2cddb804) 
 
 ## Social Media
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://fb.me/yohanstesfaye2)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yohanstesfaye3)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white&logoSize=amd)](https://fb.me/yohanstesfaye2)
+[![Twitter](https://img.shields.io/badge/X.com-121212.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/yohanstesfaye3)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yohanstesfaye)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yohanstesfaye1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/yohanstesfaye1)
 [![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/yohans)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yohanestesfaye)
+[![LinkedIn](https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yohanestesfaye)
 
 ## Github Status
 

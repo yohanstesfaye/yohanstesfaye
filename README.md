@@ -15,7 +15,7 @@ I am a Front-end and back-end `website developer`, `mobile app developer`, and `
 
 ## Have a `design` project? Let's talk on
 
-[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/yohans_tesfaye) [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=121212&Color=121212)](https://www.upwork.com/freelancers/~01a8b2a59e2cddb804) [![BioLink](https://img.shields.io/badge/BioLink-121212?style=for-the-badge&logo=biolink&Color=afffaf)](https://www.upwork.com/freelancers/~01a8b2a59e2cddb804) 
+[![Fiverr](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/yohans_tesfaye) [![Upwork](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=121212&Color=121212)](https://www.upwork.com/freelancers/~01a8b2a59e2cddb804) [![BioLink](https://img.shields.io/badge/BioLink-121212?style=for-the-badge&logo=biolink&Color=afffaf)](https://yohans.bio.link) 
 
 ## Social Media
 
